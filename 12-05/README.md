@@ -72,7 +72,7 @@ WHERE
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
+`EXPLAIN ANALYZE
 
 ![Задание 1](https://github.com/wintercomesX/12-05/blob/main/12-05/img/task2.PNG)`
 
